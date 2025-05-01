@@ -1,0 +1,10 @@
+rating.csv that contains ratings of movies by users:
+
+userId, movieId
+
+movie.csv that contains movie information:
+
+movieId, title
+
+
+

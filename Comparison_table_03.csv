@@ -1,0 +1,5 @@
+,Linkage Method,Distance Metric,Number of Clusters,Color Distribution Summary
+0,single,Jaccard,2,"{1: {'green': 482, 'red': 311}}"
+1,complete,Jaccard,2,"{1: {'green': 482, 'red': 311}}"
+2,average,Jaccard,2,"{1: {'green': 18, 'red': 286}, 2: {'green': 464, 'red': 25}}"
+3,ward,Jaccard,2,"{1: {'green': 18, 'red': 286}, 2: {'green': 464, 'red': 25}}"
